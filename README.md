@@ -1,3 +1,2 @@
 # python-programing
-hi!
-hihi
+HYMOT 2026194358 허재은 
